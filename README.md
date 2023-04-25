@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything that interests me.
 - 🌱 I’m currently learning Computer Science and Mathematics.
 - 💞️ I’m not ready to collaborate right now, but soon I will be.
-- 
+
 
 <!---
 L-BloodStone/L-BloodStone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
