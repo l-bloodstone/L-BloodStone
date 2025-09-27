@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Computer Science and Mathematics.
 - 🐼 Languages I'm interested in - TypeScript, JavaScript, C, Zig, Go, C++
 - 🦥 Currently Learning - C++, Go, TypeScript
-- ⚡ Editors I ~~like~~ Love - Vim/Neovim
+- ⚡ Editors I Love - Vim/Neovim
