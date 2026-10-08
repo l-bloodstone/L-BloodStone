@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @L-BloodStone
-- 👀 I’m interested in everything that interests me.
-- 🌱 I’m currently learning Computer Science and Mathematics.
-- 🐼 Languages I'm interested in - **C, Go, Rust, Zig, TypeScript, JavaScript**
-- 🦥 Currently Learning - **Go, Rust, C**
+- 👀 I’m interested in everything that interests me (I trust my unconscious self more than my conscious self).
+- 🐼 Languages I'm interested in - **C, Go, Zig, TypeScript, JavaScript**
+- 🦥 Currently Learning - **Go, C, Zig**
 - ⚡ Editors I Love - **Vim/Neovim**
